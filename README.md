@@ -23,9 +23,12 @@ analytics/
 # Running the Services
 
 Open three terminals:
-# Terminal 1 — Ingestion API :npm run start:ingestion     run on port 4000
-# Terminal 2 — Processor Worker: npm run start:processor   connecting the redis
-# Terminal 3 — Reporting API:npm run start:reporting        run on port 5000
+# Terminal 1 — Ingestion API :npm run start:ingestion    
+run on port 4000
+# Terminal 2 — Processor Worker: npm run start:processor   
+connecting the redis
+# Terminal 3 — Reporting API:npm run start:reporting        
+run on port 5000
 
 
 
